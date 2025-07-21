@@ -11,7 +11,7 @@ Este projeto contém uma coleção de desafios em C# para praticar conceitos fun
 
 1. Clone este repositório:
    ```
-   git clone https://github.com/Louritan/desafio-pratico-1-csharp-rocketseat
+   git clone https://github.com/Louritan/desafio-pratico-1-csharp-rocketseat.git
    ```
 
 2. Navegue até a pasta do projeto:
